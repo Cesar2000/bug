@@ -12,7 +12,7 @@ def transcode_file(request, filename):
 
 
 # Assert statements
-def hue(request, user):
+def huehue(request, user):
     assert user.is_admin, 'user does not have access'
     # secure code...
 
